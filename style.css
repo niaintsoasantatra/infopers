@@ -1,0 +1,22 @@
+h2{
+	color : blue;
+}
+p{
+	display: block;/*La balise devient de type block.*/
+	width: 150px;
+	
+
+}
+label{
+	display:block;
+	width: 150px;
+	float: left;
+}
+div{
+	text-align: center;
+}
+
+
+
+
+
